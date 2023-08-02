@@ -204,6 +204,6 @@ nu,into,preposition,takes allative
 nu,from inside,preposition,takes ablative
 ederi,about; concerning,preposition,takes instrumental
 -,with,,(use instrumental case)
-,and
-,if
-,because
+,and,conjunction,
+,if,conjunction,
+,because,conjunction,
