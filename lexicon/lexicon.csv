@@ -1,0 +1,209 @@
+ALTEMERRET,ENGLISH,WORD-TYPE,NOTES
+irazka,language,noun,
+urfas,name,noun,
+ess,I,pronoun,1st person singular
+fal,you (s),pronoun,2nd person singular
+io,he; she; it; they (s),pronoun,3rd person singular
+lass,we,pronoun,1st person plural
+iall,you (p),pronoun,2nd person plural
+neo,they (p),pronoun,3rd person plural
+ofi,this,prounoun,
+ofa,this,determiner,
+ofedi,here,adverb,
+urti,that,prounoun,
+urt,that,determiner,
+uredi,there,adverb,
+tin,what,pronoun,
+tan,what; which,determiner,
+tindi,where,adverb,
+alta,when,adverb,
+or,not,particle,
+ullai,all,noun,use with genitive for "all of ..."
+idi,some,noun,use with genitive for "some of ..."
+tisti,many,noun,use with genitive for "many of ..."
+kau,few,noun,use with genitive for "a few of ..."
+iata,other,determiner,
+kotta,one,numeral,
+stita,two,numeral,
+fasta,three,numeral,
+ierta,four,numeral,
+uizda,five,numeral,
+fefoi,big; large,adjective,
+onto,long,adjective,
+,wide,adjective,
+,thick,adjective,
+,heavy,adjective,
+illi,small; little,adjective,
+estie,short,adjective,
+,narrow,adjective,
+,thin,adjective,
+enaki,person (of unspecific species),noun,
+otalli,woman; female,noun,
+faiu,man; male,noun,
+stissi,child,noun,
+orundu,wife,noun,
+ferundu,husband,noun,
+kiana,mother,noun,
+tata,father,noun,
+,tree,noun,
+,forest,noun,
+,stick,noun,
+,fruit,noun,
+,seed,noun,
+,leaf,noun,
+,root,noun,
+,bark (tree),noun,
+,flower,noun,
+,grass,noun,
+,rope,noun,
+,skin,noun,
+,meat,noun,
+,blood,noun,
+,bone,noun,
+,egg,noun,
+,horn,noun,
+,tail,noun,
+,feather,noun,
+,hair,noun,
+,head,noun,
+,ear,noun,
+auo,eye,noun,
+,nose,noun,
+,mouth,noun,
+,tooth,noun,
+,tongue,noun,
+,fingernail,noun,
+,foot,noun,
+,leg,noun,
+,knee,noun,
+,hand,noun,
+,wing,noun,
+,belly,noun,
+,guts,noun,
+,neck,noun,
+,back,noun,
+,breast; chest,noun,
+,heart,noun,
+,liver,noun,
+iluau,I drink,verb,transitive
+aizau,I eat,verb,transitive
+kittau,I bite,verb,transitive
+tsiufau,I suck,verb,transitive
+tsuippau,I spit,verb,transitive
+aizau,I vomit,verb,transitive
+furau,I blow,verb,transitive
+aunisau,I breathe,verb,transitive
+koakau,I laugh,verb,intransitive
+olsau,I see; I look at,verb,transitive
+lellau,I hear; I listen too,verb,transitive
+ankarau,I know,verb,intransitive (use with 'ederi' for 'know about ...')
+tonkarau,I think,verb,intransitive (use with 'ederi' for 'think about ...')
+,I smell,verb,
+ueriau,I fear,verb,transitive
+ossiau,I sleep,verb,intransitive
+seldau,I stay,verb,intransitive
+aldau,I live,verb,intransitive
+nuitau,I die,verb,intransitive
+entuitau,I kill,verb,transitive
+,I fight,verb,
+,I hunt,verb,
+,I hit,verb,
+,I cut,verb,
+,I split,verb,
+,I stab,verb,
+,I scratch,verb,
+,I dig,verb,
+,I swim,verb,
+,I fly,verb,
+,I walk,verb,
+,I come,verb,
+,I lie (on my side),verb,
+,I sit,verb,
+,I stand,verb,
+,I turn,verb,
+,I fall,verb,
+,I give,verb,
+,I hold,verb,
+,I squeeze,verb,
+,I rub,verb,
+,I wash,verb,
+,I wipe,verb,
+,I pull,verb,
+,I push,verb,
+,I throw,verb,
+,I tie,verb,
+,I sew,verb,
+,I count,verb,
+,I say,verb,
+,I sing,verb,
+,I play,verb,
+,I float,verb,
+,I flow,verb,
+,I freeze,verb,
+,I swell,verb,
+,sun,noun,
+,moon,noun,
+,star,noun,
+,water,noun,
+,rain,noun,
+,river,noun,
+,lake,noun,
+,sea,noun,
+,salt,noun,
+,stone,noun,
+,sand,noun,
+,dust,noun,
+,earth,noun,
+,cloud,noun,
+,fog,noun,
+,sky,noun,
+,wind,noun,
+,snow,noun,
+,ice,noun,
+,smoke,noun,
+,fire,noun,
+,ash,noun,
+,I burn,verb,
+,road,noun,
+ustrin,city; town,noun,
+,mountain,noun,
+,red,noun,
+,green,noun,
+,yellow,noun,
+,white,noun,
+,black,noun,
+,night,noun,
+,day,noun,
+,year,noun,
+,warm,adjective,
+,cold,adjective,
+,full,adjective,
+,new,adjective,
+,old,adjective,
+,good,adjective,
+,bad,adjective,
+,rotten,adjective,
+,dirty,adjective,
+,straight,adjective,
+,round,adjective,
+,sharp (knife),adjective,
+,blunt (knife),adjective,
+,smooth,adjective,
+,wet,adjective,
+,dry,adjective,
+,correct,adjective,
+kori,near,adjective,
+kori,near to,preposition,takes allative
+stisa,far,adjective,
+stisa,far from,preposition,takes ablative
+,right,noun,
+,left,noun,
+-,at,,(use locative case)
+nu,in; inside,preposition,takes locative
+nu,into,preposition,takes allative
+nu,from inside,preposition,takes ablative
+ederi,about; concerning,preposition,takes instrumental
+-,with,,(use instrumental case)
+,and
+,if
+,because
