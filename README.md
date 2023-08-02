@@ -2,6 +2,6 @@
 
 The language of Altemer.
 
-- [Nouns](word-classes/nouns.md)
-- [Verbs](word-classes/nouns.md)
+- [Notes on nouns](word-classes/nouns.md)
+- [Notes on verbs](word-classes/nouns.md)
 - [Dictionary (work in progress)](lexicon/lexicon.csv)
